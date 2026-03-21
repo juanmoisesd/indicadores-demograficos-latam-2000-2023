@@ -1,0 +1,38 @@
+{
+  "title": "Derived demographic indicators for Latin America (2000-2023). CC0 1.0",
+  "description": "Derived demographic indicators for Latin America (2000-2023). CC0 1.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "latin-america",
+    "open-data",
+    "zenodo",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/indicadores-demograficos-latam-2000-2023",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
